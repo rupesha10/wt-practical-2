@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Study Timetable</title>
+</head>
+<body>
+<h2align="center">My Study Timetable</h2>
+<tableborder="1"align="center"cellpadding="10">
+<tr>
+<th>Day/Time</th>
+<th>9-10 AM</th>
+<th>10-11 AM</th>
+<th>11-12 PM</th>
+<th>12-1 PM</th>
+<th>1-2 PM</th>
+</tr>
+<tr>
+<td>Monday</td>
+<td>Maths</td>
+<td>Physics</td>
+<tdcolspan="2">Computer Lab</td>
+<tdrowspan="5">Lunch</td>
+</tr>
+<tr>
+<td>Tuesday</td>
+<td>English</td>
+<td>Maths</td>
+<td>C Programming</td>
+<td>Physics</td>
+</tr>
+<tr>
+<td>Wednesday</td>
+<tdcolspan="2">Workshop</td>
+<td>English</td>
+<td>Maths</td>
+</tr>
+<tr>
+<td>Thursday</td>
+<td>Physics</td>
+<td>C Programming</td>
+<tdcolspan="2">Computer Lab</td>
+</tr>
+<tr>
+<td>Friday</td>
+<td>Maths</td>
+<td>English</td>
+<td>Physics</td>
+<td>C Programming</td>
+</tr>
+</table>
+</body>
+</html>
